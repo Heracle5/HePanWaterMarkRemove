@@ -1,0 +1,2 @@
+# HePanWaterMarkRemove
+作者未学过js等语言,仅仅靠其它语言的基础写了这个油猴脚本用以去除hepan的水印,如有改进,不胜荣幸
